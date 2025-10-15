@@ -1,6 +1,6 @@
 # Hi, I'm **rprecigapuentes** 👋
 
-Electronics engineering student at the **National University of Colombia**, passionate about bringing **intelligence to physical systems**.  
+Electronics engineering student at the **Universidad Nacional de Colombia**, passionate about bringing **intelligence to physical systems**.  
 My work combines **hardware/software co-design**, **digital system verification**, and **TinyML for embedded intelligence**.  
 I believe in the power of smart hardware — devices that can sense, learn, and adapt efficiently.
 
