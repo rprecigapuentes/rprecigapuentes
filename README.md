@@ -79,14 +79,6 @@ Educational videos on AI and Quantum Computing with **12,000+ views**. Technical
 
 ---
 
-## 📊 GitHub Stats
-
-![Rosemberth's GitHub stats](https://github-readme-stats.vercel.app/api?username=rprecigapuentes&show_icons=true&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rprecigapuentes&layout=compact&theme=dark&hide_border=false)
-
----
-
 ## 🏆 Honors & Awards
 
 - 🎓 **Academic Excellence – UNAL**: multiple tuition waivers for top 15 ranking in the program (2021–2024)
